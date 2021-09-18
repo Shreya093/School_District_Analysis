@@ -60,8 +60,13 @@ After replacing the math and reading scores for Thomas High School with NaNs bel
         *  Math and reading scores by grade remained the same for all the other 14 schools.
         *  Thomas High School had no data to report for 9th grade math and reading scores.
 
-            Math Scores by grade                                                    Reading Scores by grade
-<img width="321" alt="math" src="https://user-images.githubusercontent.com/88418201/133862568-7a563b51-0879-4a65-8511-c54e848d6ab3.png">        <img width="312" alt="reading" src="https://user-images.githubusercontent.com/88418201/133862615-cc2ee6c9-d6af-4e22-8487-d5c8d4e7ec88.png">
+            Math Scores by grade :
+            
+            <img width="321" alt="math" src="https://user-images.githubusercontent.com/88418201/133862568-7a563b51-0879-4a65-8511-c54e848d6ab3.png"> 
+
+            Reading Scores by grade :
+            
+            <img width="312" alt="reading" src="https://user-images.githubusercontent.com/88418201/133862615-cc2ee6c9-d6af-4e22-8487-d5c8d4e7ec88.png">
 
    * **Scores by school spending -**
     
