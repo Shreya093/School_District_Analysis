@@ -41,6 +41,7 @@ After replacing the math and reading scores for Thomas High School with NaNs bel
         *  The % Passing Math dropped from 93.2% to 66.9%
         *  The % Passing Reading dropped from 97.3% to 69.6%
         *  The % Overall Passing dropped from 90.9% to 65.1%
+        
     
         <img width="950" alt="Screen Shot 2021-09-17 at 3 32 12 PM" src="https://user-images.githubusercontent.com/88418201/133860493-683937bf-0af2-4816-bfd5-efac281f9cd3.png">
     
@@ -50,6 +51,7 @@ After replacing the math and reading scores for Thomas High School with NaNs bel
     *  The average scores of Thomas High School for math and reading increased by around 0.06
     * **School rankings are unchanged**. Thomas High School is still the second best performing school in the district with an overall passing rate of 90.63% among their tenth through twelfth graders.
     *  Bottom five schools remain unchanged.
+    
     
     <img width="950" alt="re2" src="https://user-images.githubusercontent.com/88418201/133867315-a66f4033-aec1-4765-a008-793f213e4c0c.png">
     
